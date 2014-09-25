@@ -30,8 +30,8 @@ to make participants as productive, and thus involved, as we can.
 
 > Quiz System
 
-A lot of first year courses such as in physics, chemistry, and math 
-quiz systems like [LON-CAPA](https://homework.math.pitt.edu/adm/login?domain=pitt)
+A lot of first year courses use quiz systems like
+[LON-CAPA](https://homework.math.pitt.edu/adm/login?domain=pitt)
 and [Mastering Chemistry](https://homework.math.pitt.edu/adm/login?domain=pitt)
 to automate student testing and grading either in place of or along with
 written assignments.  Many students do not want to have to pay a fee for access
@@ -42,7 +42,7 @@ is not unlikely to see adoption.
 
 > Reimplementation of Submission Script
 
-Historically, a very hard-to-use submission script has been used to submit
+Historically, a command-line submission script has been used to submit
 projects and assignments to professors in the Computer Science department.
 Building a better tool with a more friendly UI and a more solid/useful
 backend (perhaps using Git) would likely speed up the adoption of more
