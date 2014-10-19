@@ -25,6 +25,7 @@ to make participants as productive, and thus involved, as we can.
 1. A quiz system for first/second year courses.
 2. A reimplementation of the project submission utility.
 3. An API to a lot of parts of the MUN site.
+4. A graduation progress tracker.
 
 ## Explanations
 
@@ -59,3 +60,16 @@ applications to bring parts of this information together, an API could
 be built to provide access to as many of these sources of information
 as possible, making it easier to develop more cohesive applications that
 integrate naturally into the existing infrastructure.
+
+> Graduation Progress Tracking
+
+Keeping track of the requirements a student must fulfill in order to
+graduate can be somewhat painful due to the strucutre of self-serve
+and the density of the information in the university calendar.
+Providing students with a simple interface to help them track their
+progression towards graduating would make it substantially easier to
+plan for upcoming semesters. Software such as this could be extended
+to automatically populate a set of requirements based on a specified
+degree type (e.g. [B.Sc, Major in Comp. Sci, Minor in Math]), and
+could also potentially make course suggestions referrencing annual
+offerings using the API mentioned above.
