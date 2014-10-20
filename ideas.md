@@ -41,7 +41,7 @@ hundreds of quizes every week.  Building a quiz system that could replace such
 services which allows professors to write or generate their own questions
 is not unlikely to see adoption.
 
-### 2. Reimplementation of Submission Script
+### 2. Submission Script
 
 Historically, a command-line submission script has been used to submit
 projects and assignments to professors in the Computer Science department.
@@ -49,7 +49,7 @@ Building a better tool with a more friendly UI and a more solid/useful
 backend (perhaps using Git) would likely speed up the adoption of more
 usable and modern technologies in the department.
 
-### 3. A MUN API
+### 3. MUN API
 
 There are many components that comprise the Memorial site, including D2L,
 my.mun.ca, self-serve, as well as the individual pages maintained by
@@ -61,7 +61,7 @@ be built to provide access to as many of these sources of information
 as possible, making it easier to develop more cohesive applications that
 integrate naturally into the existing infrastructure.
 
-### 4. Graduation Progress Tracking
+### 4. Graduation Progress Tracker
 
 Keeping track of the requirements a student must fulfill in order to
 graduate can be somewhat painful due to the strucutre of self-serve
