@@ -29,7 +29,7 @@ to make participants as productive, and thus involved, as we can.
 
 ## Explanations
 
-> Quiz System
+### 1. Quiz System
 
 A lot of first year courses use quiz systems like
 [LON-CAPA](https://homework.math.pitt.edu/adm/login?domain=pitt)
@@ -41,7 +41,7 @@ hundreds of quizes every week.  Building a quiz system that could replace such
 services which allows professors to write or generate their own questions
 is not unlikely to see adoption.
 
-> Reimplementation of Submission Script
+### 2. Reimplementation of Submission Script
 
 Historically, a command-line submission script has been used to submit
 projects and assignments to professors in the Computer Science department.
@@ -49,7 +49,7 @@ Building a better tool with a more friendly UI and a more solid/useful
 backend (perhaps using Git) would likely speed up the adoption of more
 usable and modern technologies in the department.
 
-> A MUN API
+### 3. A MUN API
 
 There are many components that comprise the Memorial site, including D2L,
 my.mun.ca, self-serve, as well as the individual pages maintained by
@@ -61,7 +61,7 @@ be built to provide access to as many of these sources of information
 as possible, making it easier to develop more cohesive applications that
 integrate naturally into the existing infrastructure.
 
-> Graduation Progress Tracking
+### 4. Graduation Progress Tracking
 
 Keeping track of the requirements a student must fulfill in order to
 graduate can be somewhat painful due to the strucutre of self-serve
